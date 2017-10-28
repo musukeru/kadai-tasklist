@@ -1,0 +1,47 @@
+[33mcommit eeb299105131db00242c4572c3f6b91f9d452030[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Fri Oct 27 14:11:50 2017 +0000
+
+    bootstrap design
+
+[33mcommit d39b770ed2831398827ef12df79519817b65647f[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Fri Oct 27 12:47:46 2017 +0000
+
+    add column
+
+[33mcommit ea7418ef5d38405c4fb4d439739cd2d912041e49[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Fri Oct 27 11:58:00 2017 +0000
+
+    validation
+
+[33mcommit fab2596c650abc86187c73786b308f26d4e3aefa[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Fri Oct 27 11:40:05 2017 +0000
+
+    kadai-tasklist
+
+[33mcommit f46ad80803cd35337189b69dd16133f2968c0590[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Wed Oct 25 19:38:08 2017 +0000
+
+    DRY
+
+[33mcommit 4864fb725a1b55dfd1af2c7a31d28bcb7eb9b12c[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Wed Oct 25 17:56:54 2017 +0000
+
+    CRUD messages
+
+[33mcommit fea4d00e32094ba622db63daa72982c3fa18f71a[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Wed Oct 25 16:19:46 2017 +0000
+
+    message model
+
+[33mcommit d57c77c4e6288f50329f5a5c0cf0e60b838248ba[m
+Author: Hiroshi Yoshioka <hiroshi.yoshioka@g.softbank.co.jp>
+Date:   Wed Oct 25 15:24:39 2017 +0000
+
+    init Rails Project
